@@ -1,6 +1,6 @@
 # Ignews Project
 
-A blog project with payed subscription option.
+A blog project with premium subscription option.
 
 ## How to run locally
 
