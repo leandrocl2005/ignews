@@ -3,6 +3,7 @@ import { SignInButton } from "../SignInButton";
 import { ActiveLink } from "../ActiveLink";
 
 export const Header = () => {
+
   return (
     <header className={styles.headerContainer}>
       <div className={styles.headerContent}>
